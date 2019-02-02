@@ -1,0 +1,90 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+19 Aug 2017-19 Aug 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+3.83%
+Avg for View: 3.83% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Saturday, 19 August 2017
+2.50%
+2.50%
+5.00%
+5.00%
+Order Confirmation
+This Goal was completed in 60 sessions | 30.61% funnel conversion rate
+196
+(entrance)
+46
+/account/order-list
+10
+/
+7
+/nerdwax
+7
+/acuvue-oasys?listPos=1
+6
+ViewCart
+196
+75 (38.27%)
+proceeded to ShippingOptions
+121
+(exit)
+36
+/checkout/view-cart
+19
+/?from=rwdCartHeader
+14
+/checkout/view-cart?ilid=tnav
+8
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+6
+0
+ShippingOptions
+75
+64 (85.33%)
+proceeded to Payment
+11
+(exit)
+2
+/checkout/shipping-details
+2
+/checkout/view-cart
+2
+/checkout/view-cart?ilid=tnav
+2
+/
+1
+0
+Payment
+64
+60 (93.75%)
+proceeded to Order Confirmation
+4
+/checkout/payment
+1
+/checkout/shipping-details?from=rwdPaymentHeader
+1
+/checkout/view-cart?from=rwdPaymentHeader
+1
+/michelle-lane-812-au-naturel
+1
+0
+Order Confirmation
+60
+30.61% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

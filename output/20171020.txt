@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+19 Oct 2017-19 Oct 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+6.79%
+Avg for View: 6.79% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Thursday, 19 October 2017
+5.00%
+5.00%
+10.00%
+10.00%
+Order Confirmation
+This Goal was completed in 83 sessions | 28.33% funnel conversion rate
+293
+(entrance)
+123
+/account/order-list
+13
+/contact-lenses?from=si
+6
+/eyewear
+5
+/1-day-acuvue-moist-90-pack?listPos=4
+3
+ViewCart
+293
+131 (44.71%)
+proceeded to ShippingOptions
+162
+(exit)
+57
+/checkout/view-cart?locale=en_NZ
+11
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+10
+/checkout/view-cart
+8
+/account/index
+4
+0
+ShippingOptions
+131
+109 (83.21%)
+proceeded to Payment
+22
+/checkout/shipping-details
+7
+(exit)
+6
+/checkout/view-cart?locale=en_NZ
+3
+/checkout/view-cart
+2
+/checkout/view-cart?cid=20190003216&cmp=email&src=promo&seg=17-10-12_41_NZ_CL-X_WSD&viq=0&nonews=true
+1
+0
+Payment
+109
+83 (76.15%)
+proceeded to Order Confirmation
+26
+/checkout/payment
+12
+(exit)
+6
+/checkout/shipping-details
+3
+/checkout/shipping-details?editAddress=true
+2
+/account/sign-in?ilid=tnav&action=register
+1
+0
+Order Confirmation
+83
+28.33% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+16 Apr 2018-16 Apr 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+5.00%
+Avg for View: 5.00% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Monday, 16 April 2018
+3.00%
+3.00%
+6.00%
+6.00%
+Order Confirmation
+This Goal was completed in 99 sessions | 35.23% funnel conversion rate
+281
+(entrance)
+80
+/myaccount/orders
+9
+/contact-lenses
+5
+/1-Day-Acuvue-Moist?listPos=5
+4
+/acuvue-oasys?listPos=2
+4
+ViewCart
+281
+143 (50.89%)
+proceeded to ShippingOptions
+138
+(exit)
+44
+/checkout/view-cart?locale=en_NZ
+14
+/glasses?from=rwdCartShop
+10
+/checkout/view-cart?ilid=tnav
+8
+/checkout/add-existing-to-cart?cartItemId=1&editExistedProduct=true
+6
+0
+ShippingOptions
+143
+119 (83.22%)
+proceeded to Payment
+24
+/checkout/shipping-details
+8
+(exit)
+7
+/checkout/view-cart?locale=en_NZ
+2
+/?from=rwdShippingHeader
+1
+/biofinity-multifocal-6pk?from=autocomplete&term=Biofinity Multifocal
+1
+0
+Payment
+119
+99 (83.19%)
+proceeded to Order Confirmation
+20
+/checkout/payment
+8
+(exit)
+5
+/checkout/shipping-details?from=rwdPaymentHeader
+2
+/1-Day-Acuvue-Moist?listPos=5
+1
+/checkout/shipping-details?editAddress=true
+1
+0
+Order Confirmation
+99
+35.23% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

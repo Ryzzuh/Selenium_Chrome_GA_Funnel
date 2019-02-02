@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+30 Mar 2018-30 Mar 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+3.97%
+Avg for View: 3.97% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Friday, 30 March 2018
+2.50%
+2.50%
+5.00%
+5.00%
+Order Confirmation
+This Goal was completed in 50 sessions | 21.46% funnel conversion rate
+233
+(entrance)
+54
+/eyewear
+13
+/account/order-list
+8
+/sunglasses/ray-ban/ray-ban-rb3379-64?v=gunmetal-polarized
+5
+/glasses/derek-cardigan/derek-cardigan-7031?v=ice
+4
+ViewCart
+233
+91 (39.06%)
+proceeded to ShippingOptions
+142
+(exit)
+33
+/checkout/view-cart?locale=en_NZ
+13
+/checkout/view-cart
+9
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+6
+/eyewear
+5
+0
+ShippingOptions
+91
+68 (74.73%)
+proceeded to Payment
+23
+(exit)
+8
+/checkout/shipping-details
+5
+/account/sign-in?ilid=tnav&action=login&from=rwdShippingHeader
+3
+/checkout/view-cart?locale=en_NZ
+3
+/acuvue-oasys?listPos=10
+1
+0
+Payment
+68
+50 (73.53%)
+proceeded to Order Confirmation
+18
+/checkout/shipping-details
+7
+(exit)
+5
+/checkout/payment
+4
+/checkout/view-cart?from=rwdPaymentHeader
+1
+/eyewear?from=rwdPaymentHeader
+1
+0
+Order Confirmation
+50
+21.46% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

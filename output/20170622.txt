@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+20 Jun 2017-20 Jun 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+6.82%
+Avg for View: 6.82% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Tuesday, 20 June 2017
+5.00%
+5.00%
+10.00%
+10.00%
+Order Confirmation
+This Goal was completed in 92 sessions | 35.25% funnel conversion rate
+261
+(entrance)
+84
+/
+10
+/account/order-list
+7
+/account/order-detail
+6
+/splash-one-day-30-pack?listPos=2
+6
+ViewCart
+261
+139 (53.26%)
+proceeded to ShippingOptions
+122
+(exit)
+41
+/checkout/view-cart
+17
+/checkout/view-cart?ilid=tnav
+7
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+6
+/?from=rwdCartHeader
+5
+0
+ShippingOptions
+139
+106 (76.26%)
+proceeded to Payment
+33
+(exit)
+9
+/checkout/shipping-details
+6
+/
+4
+/checkout/view-cart?ilid=tnav
+4
+/account/sign-in?ilid=tnav&action=login&from=rwdShippingHeader
+2
+0
+Payment
+106
+92 (86.79%)
+proceeded to Order Confirmation
+14
+(exit)
+8
+/checkout/payment
+3
+/checkout/shipping-details?editAddress=true
+1
+/checkout/view-cart?from=rwdPaymentHeader
+1
+/konishi-ka5824-51-wine?cmp=display&src=nz_cro_rt_dy&seg=lowerfunnel
+1
+0
+Order Confirmation
+92
+35.25% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

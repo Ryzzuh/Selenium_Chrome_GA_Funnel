@@ -1,0 +1,90 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+12 Jun 2017-12 Jun 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+7.55%
+Avg for View: 7.55% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Monday, 12 June 2017
+5.00%
+5.00%
+10.00%
+10.00%
+Order Confirmation
+This Goal was completed in 105 sessions | 41.34% funnel conversion rate
+254
+(entrance)
+100
+/account/order-detail
+6
+/account/order-list
+6
+/acuvue-oasys?listPos=1
+6
+/
+5
+ViewCart
+254
+141 (55.51%)
+proceeded to ShippingOptions
+113
+(exit)
+39
+/checkout/view-cart
+21
+/?from=rwdCartHeader
+12
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+4
+/checkout/add-existing-to-cart?cartItemId=1&editExistedProduct=true
+4
+0
+ShippingOptions
+141
+115 (81.56%)
+proceeded to Payment
+26
+/checkout/shipping-details
+14
+(exit)
+4
+/checkout/view-cart?ilid=tnav
+4
+/
+1
+/checkout/view-cart
+1
+0
+Payment
+115
+105 (91.30%)
+proceeded to Order Confirmation
+10
+(exit)
+4
+/checkout/payment
+4
+/checkout/shipping-details?editAddress=true
+1
+/mustang-1917-55-tortoise?listPos=6
+1
+0
+Order Confirmation
+105
+41.34% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

@@ -1,0 +1,90 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+4 Aug 2017-4 Aug 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+4.26%
+Avg for View: 4.26% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Friday, 4 August 2017
+2.50%
+2.50%
+5.00%
+5.00%
+Order Confirmation
+This Goal was completed in 49 sessions | 29.52% funnel conversion rate
+166
+(entrance)
+57
+/account/order-list
+9
+/
+6
+/?cmp=affiliate&src=nz_cj_aq_gnl&seg=&prd=
+3
+/love-l767-sand-petal?listPos=3
+3
+ViewCart
+166
+75 (45.18%)
+proceeded to ShippingOptions
+91
+(exit)
+33
+/checkout/view-cart
+13
+/?from=rwdCartHeader
+9
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+5
+/glasses?from=rwdCartShop
+3
+0
+ShippingOptions
+75
+57 (76.00%)
+proceeded to Payment
+18
+(exit)
+6
+/checkout/view-cart?ilid=tnav
+5
+/checkout/shipping-details
+3
+/checkout/view-cart
+2
+/account/password-setup.cc?cmp=email&src=transactional&seg=Responsys_trans_myaccount_passwordreset&viq=0&nonews=true
+1
+0
+Payment
+57
+49 (85.96%)
+proceeded to Order Confirmation
+8
+/checkout/payment
+3
+(exit)
+2
+/checkout/shipping-details
+2
+/checkout/shipping-details?from=si
+1
+0
+Order Confirmation
+49
+29.52% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

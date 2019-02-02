@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+16 Oct 2017-16 Oct 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+6.73%
+Avg for View: 6.73% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Monday, 16 October 2017
+5.00%
+5.00%
+10.00%
+10.00%
+Order Confirmation
+This Goal was completed in 91 sessions | 35.69% funnel conversion rate
+255
+(entrance)
+58
+/account/order-list
+14
+/contact-lenses?from=si
+8
+/contact-lenses
+7
+/eyewear
+6
+ViewCart
+255
+113 (44.31%)
+proceeded to ShippingOptions
+142
+(exit)
+42
+/checkout/view-cart?locale=en_NZ
+15
+/checkout/view-cart
+7
+/contact-lenses?from=rwdCartShop
+6
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+4
+0
+ShippingOptions
+113
+100 (88.50%)
+proceeded to Payment
+13
+(exit)
+5
+/account/sign-in?ilid=tnav&action=login&from=rwdShippingHeader
+2
+/checkout/shipping-details
+2
+/checkout/view-cart
+1
+/checkout/view-cart?ilid=tnav
+1
+0
+Payment
+100
+91 (91.00%)
+proceeded to Order Confirmation
+9
+(exit)
+3
+/checkout/payment
+3
+/account/sign-in?ilid=tnav&action=login&from=rwdPaymentSC
+1
+/glasses/derek-cardigan/derek-cardigan-7005?v=white-clear
+1
+/glasses/esprit/esprit-17435-52?v=brown
+1
+0
+Order Confirmation
+91
+35.69% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

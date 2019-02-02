@@ -1,0 +1,88 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+30 Jun 2017-30 Jun 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+6.74%
+Avg for View: 6.74% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Friday, 30 June 2017
+5.00%
+5.00%
+10.00%
+10.00%
+Order Confirmation
+This Goal was completed in 67 sessions | 38.07% funnel conversion rate
+176
+(entrance)
+32
+/account/order-list
+9
+/account/order-detail
+7
+/
+5
+/acuvue-oasys?listPos=1
+4
+ViewCart
+176
+101 (57.39%)
+proceeded to ShippingOptions
+75
+(exit)
+20
+/checkout/view-cart
+15
+/?from=rwdCartHeader
+7
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+4
+/favs
+3
+0
+ShippingOptions
+101
+74 (73.27%)
+proceeded to Payment
+27
+/checkout/shipping-details
+16
+(exit)
+3
+/checkout/view-cart?ilid=tnav
+3
+/account/sign-in?action=myaccount
+1
+/carrera-ca6612-dga-dark-pink?ga=F|M|K|F&listPos=6
+1
+0
+Payment
+74
+67 (90.54%)
+proceeded to Order Confirmation
+7
+/checkout/payment
+4
+/checkout/shipping-details
+2
+(exit)
+1
+0
+Order Confirmation
+67
+38.07% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

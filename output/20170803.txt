@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+2 Aug 2017-2 Aug 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+4.77%
+Avg for View: 4.77% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Wednesday, 2 August 2017
+2.50%
+2.50%
+5.00%
+5.00%
+Order Confirmation
+This Goal was completed in 86 sessions | 35.10% funnel conversion rate
+245
+(entrance)
+53
+/account/order-list
+15
+/
+8
+/account/order-detail
+6
+/splash-one-day-30-pack?listPos=2
+5
+ViewCart
+245
+116 (47.35%)
+proceeded to ShippingOptions
+129
+(exit)
+42
+/checkout/view-cart
+21
+/?from=rwdCartHeader
+10
+/?from=rwdCart
+8
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+5
+0
+ShippingOptions
+116
+97 (83.62%)
+proceeded to Payment
+19
+(exit)
+6
+/checkout/shipping-details
+5
+/checkout/view-cart
+2
+/checkout/view-cart?ilid=tnav
+2
+/
+1
+0
+Payment
+97
+86 (88.66%)
+proceeded to Order Confirmation
+11
+/checkout/payment
+4
+(exit)
+3
+/checkout/shipping-details
+2
+/checkout/view-cart?from=rwdPaymentHeader
+1
+/derek-cardigan-7705-black?from=autocomplete&term=derek cardigan frankie
+1
+0
+Order Confirmation
+86
+35.10% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

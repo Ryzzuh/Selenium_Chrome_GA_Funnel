@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+8 Mar 2018-8 Mar 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+5.02%
+Avg for View: 5.02% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Thursday, 8 March 2018
+3.00%
+3.00%
+6.00%
+6.00%
+Order Confirmation
+This Goal was completed in 104 sessions | 27.37% funnel conversion rate
+380
+(entrance)
+112
+/account/order-list
+9
+/glasses/kam-dhillon/kam-dhillon-metropolitan-54?v=matte-purple
+8
+/eyewear
+6
+/glasses/main-and-central/main-and-central-wednesday-l?v=black
+6
+ViewCart
+380
+163 (42.89%)
+proceeded to ShippingOptions
+217
+(exit)
+57
+/checkout/view-cart?locale=en_NZ
+37
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+12
+/glasses?from=rwdCartShop
+10
+/checkout/view-cart
+8
+0
+ShippingOptions
+163
+136 (83.44%)
+proceeded to Payment
+27
+(exit)
+9
+/checkout/shipping-details
+9
+/checkout/view-cart
+3
+/eyewear
+2
+/biofinity-6pk
+1
+0
+Payment
+136
+104 (76.47%)
+proceeded to Order Confirmation
+32
+/checkout/payment
+12
+(exit)
+8
+/checkout/shipping-details
+5
+/?from=rwdPaymentHeader
+1
+/account/sign-in?ilid=tnav&action=login&from=rwdPaymentHeader
+1
+0
+Order Confirmation
+104
+27.37% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

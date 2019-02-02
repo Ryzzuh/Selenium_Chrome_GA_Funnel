@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+8 Feb 2018-8 Feb 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+6.24%
+Avg for View: 6.24% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Thursday, 8 February 2018
+4.00%
+4.00%
+8.00%
+8.00%
+Order Confirmation
+This Goal was completed in 122 sessions | 27.54% funnel conversion rate
+443
+(entrance)
+208
+/account/order-list
+10
+/eyewear
+8
+/account/order-list?ilid=tnav
+6
+/acuvue-oasys?listPos=10
+4
+ViewCart
+443
+179 (40.41%)
+proceeded to ShippingOptions
+264
+(exit)
+98
+/checkout/view-cart?locale=en_NZ
+22
+/checkout/view-cart
+9
+/eyewear/edit
+9
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+8
+0
+ShippingOptions
+179
+143 (79.89%)
+proceeded to Payment
+36
+/checkout/shipping-details
+14
+(exit)
+7
+/checkout/view-cart
+4
+/account/sign-in?ilid=tnav&action=login&from=rwdShippingSC
+2
+/contact-lenses
+2
+0
+Payment
+143
+122 (85.31%)
+proceeded to Order Confirmation
+21
+(exit)
+13
+/checkout/payment
+3
+/checkout/shipping-details
+3
+/eyewear?from=rwdPaymentHeader
+1
+/glasses?usedForFavourites=&_resourcePath=/content/clearly/clearly_co_nz/en_NZ/glasses/jcr:content/par/grid&countryPath=/content/clearly/clearly_co_nz/en_NZ&query=&initialLoad=72&sort=priceHigh&shape=clearly:frame-shape/round
+1
+0
+Order Confirmation
+122
+27.54% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

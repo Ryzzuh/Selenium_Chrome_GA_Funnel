@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+13 Jul 2017-13 Jul 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+5.32%
+Avg for View: 5.32% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Thursday, 13 July 2017
+3.00%
+3.00%
+6.00%
+6.00%
+Order Confirmation
+This Goal was completed in 67 sessions | 34.72% funnel conversion rate
+193
+(entrance)
+63
+/
+6
+/account/order-detail
+6
+/account/order-list
+6
+/1-day-acuvue-moist-for-astigmatism-90-pack?listPos=9
+3
+ViewCart
+193
+100 (51.81%)
+proceeded to ShippingOptions
+93
+(exit)
+38
+/checkout/view-cart
+18
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+7
+/checkout/view-cart?ilid=tnav
+5
+/
+3
+0
+ShippingOptions
+100
+75 (75.00%)
+proceeded to Payment
+25
+/checkout/shipping-details
+8
+/checkout/view-cart
+5
+(exit)
+4
+/
+4
+/?from=rwdShippingHeader
+1
+0
+Payment
+75
+67 (89.33%)
+proceeded to Order Confirmation
+8
+/checkout/payment
+3
+(exit)
+2
+/checkout/shipping-details
+1
+/checkout/shipping-details?editAddress=true
+1
+/checkout/shipping-details?from=si
+1
+0
+Order Confirmation
+67
+34.72% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

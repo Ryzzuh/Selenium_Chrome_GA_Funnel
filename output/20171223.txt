@@ -1,0 +1,88 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+22 Dec 2017-22 Dec 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+2.69%
+Avg for View: 2.69% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Friday, 22 December 2017
+2.00%
+2.00%
+4.00%
+4.00%
+Order Confirmation
+This Goal was completed in 45 sessions | 23.81% funnel conversion rate
+189
+(entrance)
+45
+/account/order-list
+5
+/contact-lenses
+4
+/eyewear
+4
+/acuvue-oasys?listPos=2
+3
+ViewCart
+189
+74 (39.15%)
+proceeded to ShippingOptions
+115
+(exit)
+34
+/checkout/view-cart?locale=en_NZ
+17
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+7
+/glasses?from=rwdCartShop
+6
+/eyewear/edit
+5
+0
+ShippingOptions
+74
+51 (68.92%)
+proceeded to Payment
+23
+/checkout/shipping-details
+8
+(exit)
+7
+/checkout/view-cart
+3
+/checkout/view-cart?from=rwdShippingHeader
+3
+/air-optix-for-astigmatism?listPos=19
+1
+0
+Payment
+51
+45 (88.24%)
+proceeded to Order Confirmation
+6
+(exit)
+4
+/checkout/payment
+1
+/checkout/shipping-details
+1
+0
+Order Confirmation
+45
+23.81% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

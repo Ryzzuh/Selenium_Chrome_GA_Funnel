@@ -1,0 +1,90 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+14 Apr 2018-14 Apr 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+2.55%
+Avg for View: 2.55% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Saturday, 14 April 2018
+1.50%
+1.50%
+3.00%
+3.00%
+Order Confirmation
+This Goal was completed in 48 sessions | 22.64% funnel conversion rate
+212
+(entrance)
+49
+/eyewear
+7
+/biofinity-6pk?listPos=1
+6
+/eyewear/favourites
+5
+/acuvue-oasys?listPos=2
+4
+ViewCart
+212
+71 (33.49%)
+proceeded to ShippingOptions
+141
+(exit)
+43
+/checkout/view-cart?locale=en_NZ
+10
+/eyewear?from=rwdCartHeader
+10
+/eyewear?from=rwdCartShop
+7
+/eyewear/edit
+7
+0
+ShippingOptions
+71
+56 (78.87%)
+proceeded to Payment
+15
+/checkout/shipping-details
+7
+(exit)
+4
+/checkout/view-cart?locale=en_NZ
+2
+/digital-protection
+1
+/eyewear?from=rwdShippingHeader
+1
+0
+Payment
+56
+48 (85.71%)
+proceeded to Order Confirmation
+8
+(exit)
+3
+/checkout/payment
+3
+/checkout/shipping-details?from=rwdPaymentHeader
+1
+/glasses/joseph-marc/joseph-marc-norton-4143?v=Black
+1
+0
+Order Confirmation
+48
+22.64% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

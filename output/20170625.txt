@@ -1,0 +1,90 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+24 Jun 2017-24 Jun 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+5.18%
+Avg for View: 5.18% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Saturday, 24 June 2017
+3.00%
+3.00%
+6.00%
+6.00%
+Order Confirmation
+This Goal was completed in 55 sessions | 34.16% funnel conversion rate
+161
+(entrance)
+40
+/
+12
+/account/order-list
+8
+/account/order-detail
+5
+/splash-one-day-30-pack?listPos=2
+4
+ViewCart
+161
+75 (46.58%)
+proceeded to ShippingOptions
+86
+(exit)
+37
+/checkout/view-cart
+16
+/?from=rwdCartHeader
+5
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+3
+/account/index
+2
+0
+ShippingOptions
+75
+60 (80.00%)
+proceeded to Payment
+15
+(exit)
+5
+/
+2
+/checkout/shipping-details
+2
+/checkout/view-cart
+2
+/account/sign-in?ilid=tnav&action=register
+1
+0
+Payment
+60
+55 (91.67%)
+proceeded to Order Confirmation
+5
+/checkout/payment
+2
+(exit)
+1
+/checkout/shipping-details
+1
+/checkout/view-cart?from=rwdPaymentHeader
+1
+0
+Order Confirmation
+55
+34.16% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

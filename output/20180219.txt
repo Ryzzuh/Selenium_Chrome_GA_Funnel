@@ -1,0 +1,90 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+18 Feb 2018-18 Feb 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+7.56%
+Avg for View: 7.56% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Sunday, 18 February 2018
+5.00%
+5.00%
+10.00%
+10.00%
+Order Confirmation
+This Goal was completed in 139 sessions | 34.41% funnel conversion rate
+404
+(entrance)
+157
+/account/order-list
+16
+/contact-lenses
+8
+/eyewear
+6
+/contact-lenses?from=si
+5
+ViewCart
+404
+188 (46.53%)
+proceeded to ShippingOptions
+216
+(exit)
+54
+/checkout/view-cart?locale=en_NZ
+22
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+15
+/checkout/view-cart
+8
+/glasses?from=rwdCartShop
+8
+0
+ShippingOptions
+188
+159 (84.57%)
+proceeded to Payment
+29
+(exit)
+13
+/checkout/shipping-details
+6
+/checkout/view-cart
+2
+/account/sign-in?ilid=tnav&action=login?from=rwdShippingSC
+1
+/catalog/view-all-products-by-name
+1
+0
+Payment
+159
+139 (87.42%)
+proceeded to Order Confirmation
+20
+/checkout/payment
+9
+(exit)
+7
+/checkout/shipping-details
+3
+/glasses/women?cmp=email&src=promo&seg=18-02-16_07_NZ_GL_NEWCUST50&viq=0&nonews=true
+1
+0
+Order Confirmation
+139
+34.41% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

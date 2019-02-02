@@ -1,0 +1,90 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+29 Mar 2018-29 Mar 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+4.19%
+Avg for View: 4.19% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Thursday, 29 March 2018
+2.50%
+2.50%
+5.00%
+5.00%
+Order Confirmation
+This Goal was completed in 61 sessions | 23.37% funnel conversion rate
+261
+(entrance)
+85
+/account/order-list
+9
+/eyewear
+5
+/glasses/derek-cardigan/derek-cardigan-kane-56?v=navy
+5
+/glasses/main-and-central/main-and-central-weekend-m?v=brown-tortoise
+5
+ViewCart
+261
+93 (35.63%)
+proceeded to ShippingOptions
+168
+(exit)
+42
+/checkout/view-cart?locale=en_NZ
+20
+/eyewear?from=rwdCartHeader
+14
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+7
+/checkout/view-cart
+6
+0
+ShippingOptions
+93
+72 (77.42%)
+proceeded to Payment
+21
+(exit)
+5
+/checkout/view-cart?locale=en_NZ
+3
+/account/sign-in?ilid=tnav&action=login&from=rwdShippingHeader
+2
+/checkout/shipping-details
+2
+/checkout/view-cart
+2
+0
+Payment
+72
+61 (84.72%)
+proceeded to Order Confirmation
+11
+(exit)
+8
+/checkout/payment
+1
+/checkout/shipping-details
+1
+/checkout/view-cart?from=rwdPaymentHeader
+1
+0
+Order Confirmation
+61
+23.37% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

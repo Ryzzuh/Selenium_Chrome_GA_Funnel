@@ -1,0 +1,88 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+18 May 2018-18 May 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+2.02%
+Avg for View: 2.02% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Friday, 18 May 2018
+1.50%
+1.50%
+3.00%
+3.00%
+Order Confirmation
+This Goal was completed in 55 sessions | 22.09% funnel conversion rate
+249
+(entrance)
+63
+/eyewear
+11
+/contact-lenses
+4
+/myaccount/orders
+4
+/eyewear/my-fit
+3
+ViewCart
+249
+75 (30.12%)
+proceeded to ShippingOptions
+174
+(exit)
+62
+/checkout/view-cart?locale=en_NZ
+26
+/eyewear?from=rwdCartHeader
+9
+/eyewear?from=rwdCartShop
+8
+/checkout/view-cart
+4
+0
+ShippingOptions
+75
+60 (80.00%)
+proceeded to Payment
+15
+/checkout/shipping-details
+4
+(exit)
+2
+/checkout/view-cart
+2
+/contact-lenses
+2
+/biofinity-6pk?from=autocomplete&term=Biofinit
+1
+0
+Payment
+60
+55 (91.67%)
+proceeded to Order Confirmation
+5
+(exit)
+2
+/checkout/payment
+2
+/checkout/shipping-details
+1
+0
+Order Confirmation
+55
+22.09% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

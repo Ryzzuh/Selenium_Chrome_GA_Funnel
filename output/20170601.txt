@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+31 May 2017-31 May 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+3.10%
+Avg for View: 3.10% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Wednesday, 31 May 2017
+2.00%
+2.00%
+4.00%
+4.00%
+Order Confirmation
+This Goal was completed in 116 sessions | 40.00% funnel conversion rate
+290
+(entrance)
+141
+/
+7
+/splash-one-day-30-pack?listPos=2
+7
+/account/order-list
+6
+/account/order-detail
+5
+ViewCart
+290
+159 (54.83%)
+proceeded to ShippingOptions
+131
+(exit)
+50
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+16
+/checkout/view-cart
+13
+/?from=rwdCartHeader
+8
+/checkout/edit-existing-bundled-in-cart?cartItemId=1&action=edit
+4
+0
+ShippingOptions
+159
+133 (83.65%)
+proceeded to Payment
+26
+/checkout/shipping-details
+9
+(exit)
+6
+/checkout/view-cart
+3
+/checkout/view-cart?cmp=email&src=promo&seg=17-05-31_22_NZ_CL-R_10OFF89&viq=0&nonews=true
+2
+/
+1
+0
+Payment
+133
+116 (87.22%)
+proceeded to Order Confirmation
+17
+(exit)
+7
+/checkout/payment
+4
+/checkout/shipping-details
+4
+/checkout/view-cart?cmp=email&src=promo&seg=17-05-31_22_NZ_CL-R_10OFF89&viq=0&nonews=true
+1
+/contact-lenses
+1
+0
+Order Confirmation
+116
+40.00% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+22 May 2018-22 May 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+3.55%
+Avg for View: 3.55% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Tuesday, 22 May 2018
+2.50%
+2.50%
+5.00%
+5.00%
+Order Confirmation
+This Goal was completed in 128 sessions | 28.38% funnel conversion rate
+451
+(entrance)
+125
+/eyewear
+12
+/glasses?cmp=email&src=promo&seg=18-05-22_21_NZ_GL_SUPER40&viq=0&nonews=true
+11
+/glasses/main-and-central/main-and-central-wednesday-m?v=plum-tortoise
+6
+/glasses/mainstay/mainstay-fndtn003-55?v=black
+6
+ViewCart
+451
+184 (40.80%)
+proceeded to ShippingOptions
+267
+(exit)
+75
+/checkout/view-cart?locale=en_NZ
+54
+/eyewear?from=rwdCartShop
+12
+/eyewear?from=rwdCartHeader
+9
+/glasses?from=rwdCartShop
+9
+0
+ShippingOptions
+184
+148 (80.43%)
+proceeded to Payment
+36
+(exit)
+10
+/checkout/shipping-details
+10
+/checkout/view-cart?locale=en_NZ
+8
+/checkout/view-cart?from=rwdShippingHeader
+2
+/checkout/view-cart?ilid=tnav
+2
+0
+Payment
+148
+128 (86.49%)
+proceeded to Order Confirmation
+20
+(exit)
+6
+/checkout/payment
+4
+/checkout/shipping-details
+4
+/checkout/shipping-details?editAddress=true
+2
+/checkout/view-cart?from=rwdPaymentHeader
+1
+0
+Order Confirmation
+128
+28.38% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+18 Apr 2018-18 Apr 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+4.52%
+Avg for View: 4.52% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Wednesday, 18 April 2018
+2.50%
+2.50%
+5.00%
+5.00%
+Order Confirmation
+This Goal was completed in 87 sessions | 29.19% funnel conversion rate
+298
+(entrance)
+70
+/myaccount/orders
+11
+/eyewear
+10
+/glasses
+9
+/glasses/main-and-central/main-and-central-wednesday-m?v=plum-tortoise
+8
+ViewCart
+298
+120 (40.27%)
+proceeded to ShippingOptions
+178
+(exit)
+57
+/checkout/view-cart?locale=en_NZ
+23
+/checkout/view-cart
+9
+/glasses?from=rwdCartShop
+8
+/contact-lenses?from=rwdCartShop
+6
+0
+ShippingOptions
+120
+97 (80.83%)
+proceeded to Payment
+23
+/checkout/shipping-details
+7
+(exit)
+6
+/checkout/view-cart?locale=en_NZ
+3
+/checkout/view-cart
+1
+/checkout/view-cart?from=rwdShippingHeader
+1
+0
+Payment
+97
+87 (89.69%)
+proceeded to Order Confirmation
+10
+(exit)
+3
+/checkout/payment
+3
+/checkout/shipping-details
+2
+/checkout/view-cart?locale=en_NZ
+1
+/checkout/view-cart?token=EC-45L96669US788225V
+1
+0
+Order Confirmation
+87
+29.19% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

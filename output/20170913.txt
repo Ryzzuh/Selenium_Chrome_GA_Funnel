@@ -1,0 +1,90 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+12 Sep 2017-12 Sep 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+6.59%
+Avg for View: 6.59% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Tuesday, 12 September 2017
+4.00%
+4.00%
+8.00%
+8.00%
+Order Confirmation
+This Goal was completed in 89 sessions | 34.23% funnel conversion rate
+260
+(entrance)
+74
+/account/order-list
+13
+/contact-lenses?from=si
+7
+/acuvue-oasys?listPos=2
+5
+/glasses/7-for-all-mankind/7-for-all-mankind-749-54?v=dark-tortoise
+5
+ViewCart
+260
+130 (50.00%)
+proceeded to ShippingOptions
+130
+(exit)
+40
+/checkout/view-cart?locale=en_NZ
+17
+/checkout/view-cart
+7
+/eyewear?from=rwdCartHeader
+7
+/eyewear/edit
+7
+0
+ShippingOptions
+130
+104 (80.00%)
+proceeded to Payment
+26
+/checkout/shipping-details
+10
+(exit)
+5
+/checkout/view-cart?ilid=tnav
+4
+/checkout/view-cart
+3
+/checkout/view-cart?locale=en_NZ
+1
+0
+Payment
+104
+89 (85.58%)
+proceeded to Order Confirmation
+15
+/checkout/payment
+6
+(exit)
+4
+/checkout/shipping-details
+4
+/glasses/kids
+1
+0
+Order Confirmation
+89
+34.23% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

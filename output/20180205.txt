@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+4 Feb 2018-4 Feb 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+5.33%
+Avg for View: 5.33% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Sunday, 4 February 2018
+3.00%
+3.00%
+6.00%
+6.00%
+Order Confirmation
+This Goal was completed in 101 sessions | 30.70% funnel conversion rate
+329
+(entrance)
+89
+/account/order-list
+19
+/air-optix-aqua?listPos=1
+5
+/glasses/main-and-central/main-and-central-monday-s?v=blush-tortoise
+5
+/contact-lenses?from=si
+4
+ViewCart
+329
+146 (44.38%)
+proceeded to ShippingOptions
+183
+(exit)
+55
+/checkout/view-cart?locale=en_NZ
+17
+/contact-lenses?from=rwdCartShop
+10
+/checkout/view-cart
+8
+/eyewear?from=rwdCartHeader
+8
+0
+ShippingOptions
+146
+115 (78.77%)
+proceeded to Payment
+31
+(exit)
+10
+/checkout/shipping-details
+9
+/checkout/view-cart
+3
+/checkout/view-cart?locale=en_NZ
+3
+/account/index
+1
+0
+Payment
+115
+101 (87.83%)
+proceeded to Order Confirmation
+14
+/checkout/payment
+7
+(exit)
+3
+/checkout/shipping-details
+2
+/checkout/shipping-details?editAddress=true
+1
+/checkout/view-cart?cid=19749601352&cmp=email&src=promo&seg=18-02-05_06_NZ_CL-X_10dollsoff99&viq=0&nonews=true
+1
+0
+Order Confirmation
+101
+30.70% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

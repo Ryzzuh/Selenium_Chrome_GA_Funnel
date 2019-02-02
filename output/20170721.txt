@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+20 Jul 2017-20 Jul 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+5.41%
+Avg for View: 5.41% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Thursday, 20 July 2017
+4.00%
+4.00%
+8.00%
+8.00%
+Order Confirmation
+This Goal was completed in 67 sessions | 32.84% funnel conversion rate
+204
+(entrance)
+55
+/account/order-detail
+9
+/account/order-list
+8
+/
+4
+/acuvue-oasys?listPos=1
+4
+ViewCart
+204
+92 (45.10%)
+proceeded to ShippingOptions
+112
+(exit)
+42
+/checkout/view-cart
+15
+/checkout/view-cart?ilid=tnav
+6
+/?from=rwdCartHeader
+5
+/
+2
+0
+ShippingOptions
+92
+72 (78.26%)
+proceeded to Payment
+20
+/checkout/shipping-details
+7
+(exit)
+4
+/
+2
+/?from=rwdShippingHeader
+2
+/checkout/view-cart
+2
+0
+Payment
+72
+67 (93.06%)
+proceeded to Order Confirmation
+5
+/?from=rwdPaymentHeader
+1
+/checkout/payment
+1
+/checkout/shipping-details
+1
+/checkout/shipping-details?from=si
+1
+/frames/lamy-camille-53-matte-purple/prod20905.html
+1
+0
+Order Confirmation
+67
+32.84% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

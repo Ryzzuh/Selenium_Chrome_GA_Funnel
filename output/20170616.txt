@@ -1,0 +1,86 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+14 Jun 2017-14 Jun 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+8.81%
+Avg for View: 8.81% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Wednesday, 14 June 2017
+5.00%
+5.00%
+10.00%
+10.00%
+Order Confirmation
+This Goal was completed in 101 sessions | 46.12% funnel conversion rate
+219
+(entrance)
+63
+/account/order-list
+17
+/account/order-detail
+8
+/
+5
+/acuvue-oasys?listPos=1
+5
+ViewCart
+219
+127 (57.99%)
+proceeded to ShippingOptions
+92
+(exit)
+37
+/checkout/view-cart
+13
+/?from=rwdCartHeader
+9
+/checkout/view-cart?ilid=tnav
+5
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+4
+0
+ShippingOptions
+127
+108 (85.04%)
+proceeded to Payment
+19
+(exit)
+8
+/checkout/shipping-details
+3
+/account/sign-in?ilid=tnav&action=login&from=rwdShippingHeader
+2
+/checkout/view-cart
+2
+/checkout/view-cart?from=rwdShippingHeader
+2
+0
+Payment
+108
+101 (93.52%)
+proceeded to Order Confirmation
+7
+/checkout/payment
+6
+(exit)
+1
+0
+Order Confirmation
+101
+46.12% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

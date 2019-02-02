@@ -1,0 +1,90 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+15 Dec 2017-15 Dec 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+4.23%
+Avg for View: 4.23% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Friday, 15 December 2017
+2.50%
+2.50%
+5.00%
+5.00%
+Order Confirmation
+This Goal was completed in 60 sessions | 27.91% funnel conversion rate
+215
+(entrance)
+67
+/account/order-list
+6
+/contact-lenses
+5
+/splash-one-day-30-pack?listPos=1
+4
+/air-optix-aqua?listPos=1
+3
+ViewCart
+215
+90 (41.86%)
+proceeded to ShippingOptions
+125
+(exit)
+44
+/checkout/view-cart?locale=en_NZ
+14
+/checkout/view-cart
+6
+/eyewear/edit
+5
+/glasses?from=rwdCartShop
+5
+0
+ShippingOptions
+90
+66 (73.33%)
+proceeded to Payment
+24
+(exit)
+7
+/checkout/shipping-details
+6
+/checkout/view-cart?locale=en_NZ
+4
+/account/sign-in?ilid=tnav&action=login&from=rwdShippingHeader
+3
+/checkout/view-cart
+1
+0
+Payment
+66
+60 (90.91%)
+proceeded to Order Confirmation
+6
+/checkout/payment
+3
+(exit)
+1
+/checkout/view-cart?locale=en_NZ
+1
+/glasses/joseph-marc/joseph-marc-procedure-50?v=Silver
+1
+0
+Order Confirmation
+60
+27.91% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

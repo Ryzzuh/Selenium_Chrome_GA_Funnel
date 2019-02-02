@@ -1,0 +1,90 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+25 Aug 2017-25 Aug 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+3.67%
+Avg for View: 3.67% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Friday, 25 August 2017
+2.50%
+2.50%
+5.00%
+5.00%
+Order Confirmation
+This Goal was completed in 48 sessions | 32.21% funnel conversion rate
+149
+(entrance)
+36
+/
+6
+/account/order-list
+6
+/?cmp=affiliate&src=nz_cj_aq_gnl&seg=&prd=
+2
+/account/rx-list
+2
+ViewCart
+149
+71 (47.65%)
+proceeded to ShippingOptions
+78
+(exit)
+20
+/checkout/view-cart
+11
+/?from=rwdCartHeader
+8
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+4
+/account/index
+3
+0
+ShippingOptions
+71
+58 (81.69%)
+proceeded to Payment
+13
+(exit)
+6
+/checkout/shipping-details
+4
+/
+1
+/account/sign-in?ilid=tnav&action=login&from=rwdShippingSC
+1
+/checkout/view-cart?ilid=tnav
+1
+0
+Payment
+58
+48 (82.76%)
+proceeded to Order Confirmation
+10
+(exit)
+6
+/checkout/payment
+2
+/?from=rwdPaymentHeader
+1
+/checkout/view-cart?from=rwdPaymentHeader
+1
+0
+Order Confirmation
+48
+32.21% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

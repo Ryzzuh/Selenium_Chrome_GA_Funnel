@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+29 Apr 2018-29 Apr 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+4.51%
+Avg for View: 4.51% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Sunday, 29 April 2018
+2.50%
+2.50%
+5.00%
+5.00%
+Order Confirmation
+This Goal was completed in 102 sessions | 26.09% funnel conversion rate
+391
+(entrance)
+159
+/eyewear
+8
+/glasses/main-and-central/main-and-central-wednesday-m?v=plum-tortoise
+7
+/myaccount/orders
+7
+/contact-lenses
+5
+ViewCart
+391
+166 (42.46%)
+proceeded to ShippingOptions
+225
+(exit)
+87
+/checkout/view-cart?locale=en_NZ
+19
+/contact-lenses?from=rwdCartShop
+13
+/eyewear?from=rwdCartHeader
+13
+/checkout/view-cart
+8
+0
+ShippingOptions
+166
+125 (75.30%)
+proceeded to Payment
+41
+/checkout/shipping-details
+13
+(exit)
+7
+/checkout/view-cart?ilid=tnav
+6
+/checkout/view-cart?locale=en_NZ
+5
+/checkout/view-cart?cid=9126969476&cmp=email&src=promo&seg=18-04-30_18_NZ_CL-X_10DOLLSOFF99LC_06&viq=0&nonews=true
+2
+0
+Payment
+125
+102 (81.60%)
+proceeded to Order Confirmation
+23
+/checkout/payment
+10
+(exit)
+4
+/checkout/shipping-details
+3
+/eyewear?from=rwdPaymentHeader
+2
+/checkout/view-cart?cid=11363975176&cmp=email&src=promo&seg=18-04-30_18_NZ_CL-X_10DOLLSOFF99LC_06&viq=0&nonews=true
+1
+0
+Order Confirmation
+102
+26.09% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

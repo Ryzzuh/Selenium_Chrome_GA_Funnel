@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+29 Sep 2017-29 Sep 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+4.63%
+Avg for View: 4.63% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Friday, 29 September 2017
+2.50%
+2.50%
+5.00%
+5.00%
+Order Confirmation
+This Goal was completed in 56 sessions | 27.18% funnel conversion rate
+206
+(entrance)
+73
+/account/order-list
+7
+/glasses/michelle-lane/michelle-lane-817-54?v=noir
+4
+/help
+4
+/eyewear
+3
+ViewCart
+206
+85 (41.26%)
+proceeded to ShippingOptions
+121
+(exit)
+40
+/contact-lenses?from=rwdCartShop
+6
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+5
+/checkout/view-cart?locale=en_NZ
+5
+/eyewear/edit
+5
+0
+ShippingOptions
+85
+63 (74.12%)
+proceeded to Payment
+22
+(exit)
+6
+/checkout/shipping-details
+5
+/checkout/view-cart?locale=en_NZ
+3
+/checkout/view-cart?ilid=tnav
+2
+/
+1
+0
+Payment
+63
+56 (88.89%)
+proceeded to Order Confirmation
+7
+(exit)
+2
+/checkout/payment
+2
+/account/index
+1
+/checkout/shipping-details
+1
+/eyewear
+1
+0
+Order Confirmation
+56
+27.18% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

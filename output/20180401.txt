@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+31 Mar 2018-31 Mar 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+4.49%
+Avg for View: 4.49% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Saturday, 31 March 2018
+2.50%
+2.50%
+5.00%
+5.00%
+Order Confirmation
+This Goal was completed in 47 sessions | 21.17% funnel conversion rate
+222
+(entrance)
+87
+/account/order-list
+10
+/eyewear
+6
+/glasses/joseph-marc/joseph-marc-morgan-4146?v=sequoia&cmp=email&src=promo&seg=18-04-02_14_NZ_GL_50FOR50PRS&viq=0&nonews=true
+4
+/eyewear/my-fit
+3
+ViewCart
+222
+87 (39.19%)
+proceeded to ShippingOptions
+135
+(exit)
+47
+/checkout/view-cart?locale=en_NZ
+9
+/checkout/view-cart
+8
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+4
+/eyewear?from=rwdCartShop
+4
+0
+ShippingOptions
+87
+62 (71.26%)
+proceeded to Payment
+25
+/checkout/view-cart?locale=en_NZ
+6
+(exit)
+5
+/checkout/shipping-details
+2
+/checkout/view-cart?ilid=tnav
+2
+/checkout/view-cart?token=EC-694670799J720852J
+2
+0
+Payment
+62
+47 (75.81%)
+proceeded to Order Confirmation
+15
+(exit)
+6
+/checkout/payment
+2
+/checkout/shipping-details?editAddress=true
+2
+/checkout/shipping-details
+1
+/checkout/view-cart?from=rwdPaymentHeader
+1
+0
+Order Confirmation
+47
+21.17% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

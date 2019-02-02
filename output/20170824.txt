@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+22 Aug 2017-22 Aug 2017
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+6.79%
+Avg for View: 6.79% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Tuesday, 22 August 2017
+5.00%
+5.00%
+10.00%
+10.00%
+Order Confirmation
+This Goal was completed in 87 sessions | 33.85% funnel conversion rate
+257
+(entrance)
+79
+/account/order-list
+14
+/
+8
+/?cmp=affiliate&src=nz_cj_aq_gnl&seg=&prd=
+5
+/air-optix-colors-2-pk?listPos=9
+4
+ViewCart
+257
+128 (49.81%)
+proceeded to ShippingOptions
+129
+(exit)
+41
+/checkout/view-cart
+21
+/?from=rwdCartHeader
+12
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+7
+/checkout/view-cart?ilid=tnav
+5
+0
+ShippingOptions
+128
+99 (77.34%)
+proceeded to Payment
+29
+(exit)
+8
+/checkout/view-cart
+8
+/checkout/shipping-details
+6
+/account/sign-in?ilid=tnav&action=login&from=rwdShippingHeader
+3
+/checkout/view-cart?from=rwdShippingHeader
+2
+0
+Payment
+99
+87 (87.88%)
+proceeded to Order Confirmation
+12
+(exit)
+5
+/checkout/shipping-details
+3
+/
+1
+/checkout/continueShopping
+1
+/checkout/payment
+1
+0
+Order Confirmation
+87
+33.85% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

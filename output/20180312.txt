@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+11 Mar 2018-11 Mar 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+6.89%
+Avg for View: 6.89% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Sunday, 11 March 2018
+5.00%
+5.00%
+10.00%
+10.00%
+Order Confirmation
+This Goal was completed in 125 sessions | 26.54% funnel conversion rate
+471
+(entrance)
+197
+/account/order-list
+11
+/eyewear
+11
+/acuvue-oasys?listPos=2
+6
+/glasses/mainstay/mainstay-fndtn005-54?v=black
+5
+ViewCart
+471
+190 (40.34%)
+proceeded to ShippingOptions
+281
+(exit)
+98
+/checkout/view-cart?locale=en_NZ
+42
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+14
+/glasses?from=rwdCartShop
+14
+/checkout/view-cart
+11
+0
+ShippingOptions
+190
+151 (79.47%)
+proceeded to Payment
+39
+/checkout/shipping-details
+18
+(exit)
+6
+/checkout/view-cart?ilid=tnav
+3
+/checkout/view-cart?locale=en_NZ
+3
+/account/sign-in?ilid=tnav&action=login?from=rwdShippingSC
+1
+0
+Payment
+151
+125 (82.78%)
+proceeded to Order Confirmation
+26
+/checkout/payment
+12
+(exit)
+6
+/checkout/shipping-details
+3
+/checkout/shipping-details?editAddress=true
+2
+/checkout/view-cart
+1
+0
+Order Confirmation
+125
+26.54% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

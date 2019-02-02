@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+10 Mar 2018-10 Mar 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+7.10%
+Avg for View: 7.10% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Saturday, 10 March 2018
+5.00%
+5.00%
+10.00%
+10.00%
+Order Confirmation
+This Goal was completed in 99 sessions | 31.33% funnel conversion rate
+316
+(entrance)
+115
+/account/order-list
+6
+/eyewear
+6
+/glasses/main-and-central/main-and-central-wednesday-m?v=black
+5
+/account/order-list?ilid=tnav
+4
+ViewCart
+316
+133 (42.09%)
+proceeded to ShippingOptions
+183
+(exit)
+60
+/checkout/view-cart?locale=en_NZ
+26
+/glasses?from=rwdCartShop
+9
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+8
+/contact-lenses?from=rwdCartShop
+7
+0
+ShippingOptions
+133
+108 (81.20%)
+proceeded to Payment
+25
+(exit)
+9
+/checkout/shipping-details
+7
+/checkout/view-cart?locale=en_NZ
+3
+/checkout/view-cart
+2
+/1-day-acuvue-trueye-30-pack?listPos=16
+1
+0
+Payment
+108
+99 (91.67%)
+proceeded to Order Confirmation
+9
+(exit)
+3
+/account/sign-in?ilid=tnav&action=login?from=rwdPaymentSC
+1
+/account/sign-in?ilid=tnav&action=login&from=rwdPaymentHeader
+1
+/checkout/payment
+1
+/checkout/shipping-details?editAddress=true
+1
+0
+Order Confirmation
+99
+31.33% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

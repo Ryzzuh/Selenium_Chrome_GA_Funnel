@@ -1,0 +1,92 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+1 Apr 2018-1 Apr 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+5.94%
+Avg for View: 5.94% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Sunday, 1 April 2018
+4.00%
+4.00%
+8.00%
+8.00%
+Order Confirmation
+This Goal was completed in 81 sessions | 25.80% funnel conversion rate
+314
+(entrance)
+133
+/account/order-list
+8
+/eyewear?from=si
+5
+/glasses/joseph-marc/joseph-marc-morrow-4151?v=black
+5
+/account/order-list?ilid=tnav
+4
+ViewCart
+314
+143 (45.54%)
+proceeded to ShippingOptions
+171
+(exit)
+54
+/eyewear?from=rwdCartHeader
+18
+/checkout/view-cart?locale=en_NZ
+15
+/eyewear/edit
+9
+/checkout/view-cart
+7
+0
+ShippingOptions
+143
+101 (70.63%)
+proceeded to Payment
+42
+(exit)
+13
+/checkout/shipping-details
+12
+/checkout/view-cart?locale=en_NZ
+5
+/account/index
+2
+/checkout/view-cart
+2
+0
+Payment
+101
+81 (80.20%)
+proceeded to Order Confirmation
+20
+/checkout/payment
+7
+(exit)
+5
+/checkout/shipping-details
+2
+/checkout/view-cart?from=rwdPaymentHeader
+2
+/account/sign-in?ilid=tnav&action=login&from=rwdPaymentHeader
+1
+0
+Order Confirmation
+81
+25.80% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback

@@ -1,0 +1,84 @@
+Goal Funnel
+SAVE
+EXPORT
+SHARE
+9
+INTELLIGENCE
+
+
+
+% of goal completions: 100.00%
+24 Mar 2018-24 Mar 2018
+Goal Option:
+Goal 1: Order Confirmation
+Goal Funnel
+Order Confirmation (Goal 1 Conversion Rate)
+4.90%
+Avg for View: 4.90% (0.00%)
+Day
+Week
+Month
+Order Confirmation (Goal 1 Conversion Rate)
+ Order Confirmation (Goal 1 Conversion Rate)
+Saturday, 24 March 2018
+2.50%
+2.50%
+5.00%
+5.00%
+Order Confirmation
+This Goal was completed in 56 sessions | 24.78% funnel conversion rate
+226
+(entrance)
+77
+/1-Day-Acuvue-Moist?listPos=5
+5
+/account/order-list
+5
+/contactlenses?from=si
+4
+/glasses/main-and-central/main-and-central-monday-s?v=brown-tortoise
+4
+ViewCart
+226
+77 (34.07%)
+proceeded to ShippingOptions
+149
+(exit)
+54
+/checkout/view-cart?locale=en_NZ
+11
+/account/sign-in?ilid=tnav&action=login&from=rwdCartHeader
+9
+/checkout/view-cart
+6
+/contact-lenses?from=rwdCartShop
+6
+0
+ShippingOptions
+77
+67 (87.01%)
+proceeded to Payment
+10
+(exit)
+8
+/checkout/shipping-details
+1
+/checkout/view-cart?locale=en_NZ
+1
+0
+Payment
+67
+56 (83.58%)
+proceeded to Order Confirmation
+11
+/checkout/payment
+6
+(exit)
+4
+/checkout/shipping-details
+1
+0
+Order Confirmation
+56
+24.78% funnel conversion rate
+  © 2018 Google | Analytics Home | Terms of Service | Privacy Policy | Send Feedback
